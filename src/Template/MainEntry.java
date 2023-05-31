@@ -10,7 +10,7 @@ public class MainEntry {
         content.add("디자인");
         content.add("패턴");
 
-        String footer = "2023.05.30 goot";
+        String footer = "2023.05.30 good";
 
         Article article
                 = new Article(title,content,footer);
