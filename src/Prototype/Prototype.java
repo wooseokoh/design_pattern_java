@@ -1,2 +1,5 @@
-package Prototype;public class Prototype {
+package Prototype;
+
+public interface Prototype {
+    Object copy();
 }
